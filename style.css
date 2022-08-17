@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+flafla {
+    font-size: 1000px;
+}
+
+body {
+    background-color: cyan;
+}
+
+#carte {
+    background-color: darkred;
+    margin: 10px;
+    background-size: 100px;
+}
